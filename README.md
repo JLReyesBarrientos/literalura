@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.app.goo.gl/awSkayQpYRVqjUtq6"
+  <img src="https://i.pinimg.com/736x/65/2a/6b/652a6b7be75cf41130ed2ede10e03243.jpg"
     </p>
 
 # 📚 Literalura
@@ -14,7 +14,6 @@
 - **Spring Boot**
 - **JPA (Hibernate)**
 - **PostgreSQL**
-- **Lombok**
 - **API REST de Gutendex (Proyecto Gutenberg)**
 
 ---
@@ -58,10 +57,4 @@
 
     - Gutendex - API de libros del Proyecto Gutenberg
 
-🎓 Sobre el proyecto
-
-Este proyecto fue desarrollado como parte del programa Oracle Next Education (ONE) junto a Alura Latam, con el objetivo de aplicar los conocimientos adquiridos en Java, Spring y bases de datos.
-    🤝 Autor
-
-    José Luis Reyes Barrientos
-
+ ***** Gracias por visitar este repositorio*****
