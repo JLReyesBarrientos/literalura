@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://images.app.goo.gl/awSkayQpYRVqjUtq6"
+    </p>
+
 # 📚 Literalura
 
 **Literalura** es una aplicación desarrollada como parte del bootcamp de **Alura Latam** en conjunto con **Oracle Next Education (ONE)**. Su objetivo es consumir información de libros a través de una API pública (Gutenberg) y almacenar los datos consultados en una base de datos para su posterior visualización y análisis.
